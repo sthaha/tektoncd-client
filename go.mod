@@ -29,12 +29,10 @@ require (
 	go.uber.org/atomic v1.3.2 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.9.1 // indirect
-	golang.org/x/net v0.0.0-20190322120337-addf6b3196f6 // indirect
 	golang.org/x/time v0.0.0-20180314180208-26559e0f760e // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	k8s.io/apimachinery v0.0.0-20190416052411-7dcd37fca543
+	k8s.io/apimachinery v0.15.7
 	k8s.io/cli-runtime v0.0.0-20190416053634-32d9cfdc4432
 	k8s.io/client-go v0.0.0-20190416052645-4dc5e1154b7f
-	k8s.io/klog v0.2.0 // indirect
 	k8s.io/kubernetes v1.13.3 // indirect
 )
